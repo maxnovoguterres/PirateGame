@@ -1,0 +1,13 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Assets.Scripts.Model;
+using Assets.Scripts.Controller;
+
+namespace Assets.Scripts.View
+{
+    public class #SCRIPTNAME# : Shared.View
+    {
+
+    }
+}
